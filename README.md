@@ -1,4 +1,4 @@
-Hi, I'm Sotirios 👋  
+**Hi, I'm Sotirios 👋**  
 
 - Currently working at EY as a Senior Technology Consultant in AI & Data  
 - Building RAG, Agentic systems, and LLM-powered business solutions  
