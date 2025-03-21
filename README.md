@@ -2,7 +2,7 @@
 
 - Currently working at EY as a Senior Technology Consultant in AI & Data  
 - Building RAG, Agentic systems, and LLM-powered business solutions  
-- My team placed 15th globally in the EY AI & Data Challenge  
+- My team placed 16th globally in the EY AI & Data Challenge  
 - Graduated 2nd in my class during my BSc in Mathematics
 - [Blogging](https://medium.com/@Sotirios_Kastanas) about Agentic Systems, Chatbots, LLMs, Mathematics, and Reinforcement Learning
 - In my free time, I enjoy playing football, reading books, and exploring the latest in Generative AI & Reinforcement Learning
