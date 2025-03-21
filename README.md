@@ -14,7 +14,7 @@
   - BSc Thesis: *The Use of Reinforcement Learning in Virtual Games*, exploring game theory and intelligent decision-making.  
 - 2022 – 2023: Completed a MSc in Information Studies (Data Science track) at the University of Amsterdam, Netherlands.  
   - Internship – @City of Amsterdam, The Netherlands (5 months): Applied statistical analysis and machine learning to reduce car usage and promote pedestrian activity.  
-  - Internship – @Elsevier, The Netherlands (8 months): Focused on multimodal models, combining vision and transformers for multilingual information extraction across scientific articles.  
+  - Internship – @Elsevier, The Netherlands (8 months): Focused on multimodal models for multilingual information extraction across scientific articles.  
 - 2023 – Present: Working as a Senior Technology Consultant in the AI & Data team at @EY, Greece, focusing on NLP, chatbots, and agentic systems.  
 - 2024 – Present: Pursuing the [Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program) at Stanford University, with a focus on LLMs, Reinforcement Learning, and Artificial Intellience.
 
